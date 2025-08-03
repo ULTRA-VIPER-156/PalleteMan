@@ -1,8 +1,44 @@
-# Welcome to your Expo app 👋
+# 🎨 PalleteMan – My First React Native App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+PalleteMan is a sleek and simple **palette generator** built using **React Native** and **Expo**. It creates harmonious 5-color palettes with one tap, and lets you save, copy, and manage your favorite combinations with ease.
 
-## Get started
+This was my very first React Native project. I wanted to build something useful for Android — and since I often spend too much time picking the right colors for my projects, this app was born to make that process easier.
+
+---
+
+## ✨ Features
+
+- 🌈 Generate beautiful 5-color palettes using color harmony rules
+- 🌗 Toggle between dark and light mode
+- 💾 Save your favorite palettes for later
+- 📋 Copy individual color codes with a single tap
+- 🗑️ Delete palettes you no longer need
+- 💫 Clean UI with smooth animations
+
+---
+
+## 📲 Try It Out
+
+- 📥 Download the `.exe` version of the app:  
+  [Click here](https://lnkd.in/e4gbKa_t)
+
+- 💻 GitHub Repo:  
+  [https://lnkd.in/ePrh-bGg](https://lnkd.in/ePrh-bGg)
+
+---
+
+## 🚀 Getting Started
+
+This app was built using [Expo](https://expo.dev) via [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+### 🔧 Installation
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/yourusername/palette-generator.git
+   cd palette-generator
+
 
 1. Install dependencies
 
@@ -16,35 +52,3 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
