@@ -13,7 +13,6 @@ This was my very first React Native project. I wanted to build something useful 
 - 💾 Save your favorite palettes for later
 - 📋 Copy individual color codes with a single tap
 - 🗑️ Delete palettes you no longer need
-- 💫 Clean UI with smooth animations
 
 ---
 
