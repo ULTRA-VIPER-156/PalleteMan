@@ -2,7 +2,7 @@
 
 PalleteMan is a sleek and simple **palette generator** built using **React Native** and **Expo**. It creates harmonious 5-color palettes with one tap, and lets you save, copy, and manage your favorite combinations with ease.
 
-This was my very first React Native project. I wanted to build something useful for Android — and since I often spend too much time picking the right colors for my projects, this app was born to make that process easier.
+
 
 ---
 
